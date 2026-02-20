@@ -19,3 +19,9 @@ source venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
+
+## **accee au notebook Jupyter**
+```bash
+# Assure-toi que ton venv est activé
+jupyter notebook
+```
